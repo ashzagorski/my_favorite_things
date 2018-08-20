@@ -1,0 +1,1 @@
+puts "Tells a story of a young Afghanistan girl, Mariam and the hardships she ensures"

@@ -1,0 +1,1 @@
+puts "Kite Runner is a story about a Pakistan man named, Amir who returns to Pakistan as an adult and retraces his life growing in Pakistan and events that led him to where he is now."
